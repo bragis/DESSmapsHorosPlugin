@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "DESSmaps";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "DESSmaps version 1.0, Copyright (c) 2016 Bragi.";
+NSHumanReadableCopyright = "Copyright (c) 2016 Bragi.";
